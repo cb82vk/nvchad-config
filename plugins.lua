@@ -26,7 +26,7 @@ local plugins = {
         "nvim-treesitter/nvim-treesitter",
         lazy = false,
         opts = {
-            ensure_installed = { "lua", "c", "cpp", "bash", "markdown", "markdown_inline", "regex", "c_sharp" },
+            ensure_installed = { "lua", "c", "cpp", "bash", "markdown", "markdown_inline", "regex", "c_sharp", "python" },
         },
     },
     {
